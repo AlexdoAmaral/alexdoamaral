@@ -10,9 +10,9 @@ Atualmente atuo na empresa como desenvolvedor na empresa Foursys.
 
 ## O que tenho feito atualmente?
 
-Procuro me manter ativo nos estudos das principais tecnologias.
+👾 Procuro me manter ativo nos estudos das principais tecnologias.
 💻 Atualmente aprendendo a desenvolver em Android com Java.
-Lendo alguns livros, sendo os principais: Google Android e Clean Code.
+📚 Lendo alguns livros, sendo os principais: Google Android e Clean Code.
 👫 Curtindo minha vida de casado com minha amada esposa.
 Gosto de usar meu tempo livre com Séries, Youtube, Músicas e Podcasts.
 
