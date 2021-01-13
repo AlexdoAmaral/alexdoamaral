@@ -14,7 +14,7 @@ Atualmente atuo na empresa como desenvolvedor na empresa Foursys.
 💻 Atualmente aprendendo a desenvolver em Android com Java.
 📚 Lendo alguns livros, sendo os principais: Google Android e Clean Code.
 👫 Curtindo minha vida de casado com minha amada esposa.
-Gosto de usar meu tempo livre com Séries, Youtube, Músicas e Podcasts.
+🎼 Gosto de usar meu tempo livre com Séries, Youtube, Músicas e Podcasts.
 
 ## Tecnologias, Ferramentas e Linguagens 
 
