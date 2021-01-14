@@ -17,6 +17,10 @@ Atualmente atuo como desenvolvedor na empresa Foursys.
 - 👫 Curtindo minha vida de casado com minha amada esposa.
 - 🎼 Gosto de usar meu tempo livre com Séries, Youtube, Músicas e Podcasts.
 
+## Meu status no Github
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexdoamaral&show_icons=true&locale=en" alt="Alex do Amaral Ribeiro" />
+
 ## Tecnologias, Ferramentas e Linguagens 
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
