@@ -20,7 +20,7 @@ Atualmente atuo como desenvolvedor na empresa Foursys.
 
 ## Meu status no Github
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexdoamaral&show_icons=true&locale=en" alt="Alex do Amaral Ribeiro" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexdoAmaral&show_icons=true&locale=en" alt="Alex do Amaral Ribeiro" />
 
 ## Tecnologias, Ferramentas e Linguagens 
 
