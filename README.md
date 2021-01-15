@@ -1,7 +1,8 @@
 ## Salve Salve Galera... <img src="https://github.com/alexdoamaral/alexdoamaral/blob/main/hey.gif?raw=true" width="32px">
 
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/alexdoamaralribeiro/) [![followersGit](https://img.shields.io/github/followers/alexdoamaral?style=social)](https://github.com/alexdoamaral) <img src="https://komarev.com/ghpvc/?username=alexdoamaral&label=Profile%20views&color=0e75b6&style=social" alt="Alex do Amaral Ribeiro" /> ![Dev](https://img.shields.io/badge/Dev-AlexdoAmaral-yellowgreen)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexdoamaralribeiro/)](https://www.linkedin.com/in/alexdoamaralribeiro/) [![followersGit](https://img.shields.io/github/followers/alexdoamaral?style=social)](https://github.com/alexdoamaral) <img src="https://komarev.com/ghpvc/?username=alexdoamaral&label=Profile%20views&color=0e75b6&style=social" alt="Alex do Amaral Ribeiro" /> ![Dev](https://img.shields.io/badge/Dev-AlexdoAmaral-yellowgreen)
 
 Olá, me chamo Alex, tenho 29 anos, sou casado, natural de Curitiba e graduado em Análise e Desenvolvimento de Sistemas.
 
