@@ -1,4 +1,4 @@
-## Salve Salve Galera... <img src="https://github.com/alexdoamaral/alexdoamaral/blob/main/hey.gif?raw=true" width="32px">
+## Salve Salve Galera... 
 
 
 
@@ -6,7 +6,7 @@
 
 Olá, me chamo Alex, tenho 29 anos, sou casado, natural de Curitiba e graduado em Análise e Desenvolvimento de Sistemas.
 
-Venho trabalhando a mais de 5 anos na área de tecnologia em áreas distintas tais como Testes, Suporte a aplicações e no momento com Desenvolvimento mobile voltado a Android.
+Venho trabalhando a mais de 5 anos na área de tecnologia com conhecimentos em áreas distintas tais como Testes, Suporte a aplicações e no momento com Desenvolvimento mobile voltado a Android.
 
 Atualmente atuo como desenvolvedor na empresa Foursys.
 
